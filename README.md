@@ -1,2 +1,2 @@
 # Classification-on-Fashion-Mnist-Dataset
-Classification of fashion mnist dataset using neural network.
+This Jupyter notebook shows a demo of classification of fashion mnist dataset using neural network.
